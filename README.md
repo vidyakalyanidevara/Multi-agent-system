@@ -6,16 +6,15 @@ An AI-powered chatbot built using a multi-agent system to help users quickly fin
 Python • Jupyter Notebook • Pandas • NumPy • Scikit-learn
 
 🚀 Features
-Multi-agent architecture for efficient task handling
-Fast and accurate emergency service recommendations
-Simple chatbot interface for user queries
+🔸Multi-agent architecture for efficient task handling
+🔸Fast and accurate emergency service recommendations
+🔸Simple chatbot interface for user queries
 
 ▶️ Run
 
-git clone https://github.com/vidyakalyanidevara/ai-emergency-chatbot.git
+git clone https://github.com/vidyakalyanidevara/Multi-agent-system
 cd ai-emergency-chatbot
 jupyter notebook
 
 📌 Outcome
-
 Delivered quick and reliable emergency support suggestions using coordinated AI agents.
